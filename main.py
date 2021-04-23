@@ -172,7 +172,7 @@ def model_train(train_dataset, val_dataset, batch_size, epochs, learning_rate, w
         file2.write('\r')
 
         file3 = open('loss_rate.txt', 'a')
-        file3.write(str(loss_rate.item()))
+        file3.write(str(loss_rate of training dataset.item()))
         file3.write('\r')
 
     return cnn_model
