@@ -1,4 +1,5 @@
-#Test1: 
+#Test1:
+#
 batch_size=128, epochs=100, learning_rate=0.05, wt_decay=1e-5, Optimizer = SGD
 
 #Test2:
