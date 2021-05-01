@@ -34,6 +34,8 @@ It can be seen from the data that when the Adam optimizer is used, no matter whe
 
 
 ## Reference
+https://www.kaggle.com/msambare/fer2013
+
 https://github.com/amineHorseman/facial-expression-recognition-using-cnn
 
 https://blog.csdn.net/charzous/article/details/107452464?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-2&spm=1001.2101.3001.4242
