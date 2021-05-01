@@ -32,3 +32,9 @@ It can be seen from the data that when the Adam optimizer is used, no matter whe
 
 ![image](https://user-images.githubusercontent.com/78702377/116769506-548b3d80-aa02-11eb-8574-ea948c8b2fa7.png)
 
+
+## Reference
+https://github.com/amineHorseman/facial-expression-recognition-using-cnn
+https://blog.csdn.net/charzous/article/details/107452464?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-2&spm=1001.2101.3001.4242
+https://www.overleaf.com/articles/convolutional-neural-networks-for-facical-emotion-recognition/grwnwbqvzmnr
+https://www.cnki.com.cn/Article/CJFDTOTAL-DNZS202003091.htm
