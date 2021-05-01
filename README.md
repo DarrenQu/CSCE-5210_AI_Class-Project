@@ -14,9 +14,13 @@ The initialization of model parameters is an important part in the process of ne
 ![image](https://user-images.githubusercontent.com/78702377/116769381-5274af00-aa01-11eb-9404-018d9fbcca6a.png)
 
 Then we did several experiments by setting different parameters which showns on the following table.
+
 ![image](https://user-images.githubusercontent.com/78702377/116769457-e34b8a80-aa01-11eb-9155-b59ff8ebe400.png)
 
 
 When Epoch is set to 100 and the optimizer is SGD, the accuracy of the training set is 99.79\%, the accuracy of the validation set is 58.58\%, and the loss value of the training set is 0.006. In order to improve the training The accuracy on the set and validation set needs to increase the number of training rounds, that means set Epoch to a larger value. When Epoch is set to 200, compared to when Epoch is set to 100, the accuracy of the training set is increased by 0.06\%, and the accuracy of the validation set is increased by 1.62\%.
 In order to verify whether other optimizers can improve the accuracy, we use Adam optimizer when other parameters are unchanged. When Epoch is set to 100, the accuracy of the training set is 24.77\%, and the accuracy of the verification set is 23.82\%. When Epoch is set to 200, the accuracy of the training set is 26.83\%, and the accuracy of the validation set is 25.71\%.
 It can be seen from the data that when the Adam optimizer is used, no matter whether the epoch is increased or not, the final accuracy rate is very low, and the Loss rate value is also large. It is obvious that using the SGD optimizer is better than the Adam optimizer.
+
+![image](https://user-images.githubusercontent.com/78702377/116769506-548b3d80-aa02-11eb-8574-ea948c8b2fa7.png)
+
