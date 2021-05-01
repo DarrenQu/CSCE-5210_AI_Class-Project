@@ -10,6 +10,7 @@ The hardware environment of this experiment is as follows: Window10 operating sy
 
 ## Result
 The initialization of model parameters is an important part in the process of neural network training. The appropriate initialization value can make the model converge quickly. The initialization of model parameters in this experiment is shown in following table. The batch size is 128, and the total number of training rounds is 200. The optimizer selects the random gradient descent algorithm (SGD), in which the learning rate parameter is set to 0.05, The decay value of learning rate after each update is set to 1e-5.
+
 ![image](https://user-images.githubusercontent.com/78702377/116769381-5274af00-aa01-11eb-9404-018d9fbcca6a.png)
 
 Then we did several experiments by setting different parameters which showns on the following table.
